@@ -1,4 +1,4 @@
-# nuxt-demo
+# daily-student
 
 ## Build Setup
 
